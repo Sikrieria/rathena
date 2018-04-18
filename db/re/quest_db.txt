@@ -1048,7 +1048,7 @@
 7104,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  4"
 7105,600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  4"
 7106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  5"
-7107,10800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  6"
+7107,1800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  6"
 7108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  7"
 7109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  8"
 7110,600,2030,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"Special task of an assassin guild  9"
